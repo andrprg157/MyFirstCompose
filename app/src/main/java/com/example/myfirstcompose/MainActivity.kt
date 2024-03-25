@@ -58,6 +58,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
+            //TEst
             // Text(text = "Hello Compose!!!")
             // UNCOMMENT FOR COUNTER    PreviewFunction()
             //ListComposable()
